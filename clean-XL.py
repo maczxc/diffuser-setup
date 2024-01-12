@@ -1,3 +1,5 @@
+#StableDiffusionXL
+
 import torch
 from diffusers import (
     StableDiffusionXLPipeline, 
